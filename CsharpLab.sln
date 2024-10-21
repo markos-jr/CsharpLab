@@ -5,6 +5,8 @@ VisualStudioVersion = 17.11.35312.102
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1- Fundamentos", "1- Fundamentos\1- Fundamentos.csproj", "{CF94E329-66BC-4BB4-ACB8-5257A70B49B6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2- CriandoVariaveis", "2- CriandoVariaveis\2- CriandoVariaveis.csproj", "{DDBC041D-4866-45A3-B0A8-C6AEED12048E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{CF94E329-66BC-4BB4-ACB8-5257A70B49B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CF94E329-66BC-4BB4-ACB8-5257A70B49B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CF94E329-66BC-4BB4-ACB8-5257A70B49B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDBC041D-4866-45A3-B0A8-C6AEED12048E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDBC041D-4866-45A3-B0A8-C6AEED12048E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDBC041D-4866-45A3-B0A8-C6AEED12048E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDBC041D-4866-45A3-B0A8-C6AEED12048E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
